@@ -5,8 +5,10 @@
     gap: 12px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .feedbackText {
     font-size: 18px;
+    text-align: center;
 }
